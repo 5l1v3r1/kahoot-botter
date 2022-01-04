@@ -3,7 +3,7 @@
 
 Get a kahoot code or someone's kahoot code
 
-# Requiremtns
+# Requirements
  
  Install before using
  `pip install webbot`
@@ -19,6 +19,9 @@ Requirements
 # How to use
 First get a kahoot game code then
 run the python file, enter it, names (edit them) and number and it will then bot it.
+
+# Download
+https://bit.ly/3pQLduT
 
 
 # Steps.
